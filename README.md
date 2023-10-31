@@ -6,10 +6,10 @@
   - [Praciting OOP in Java](https://github.com/Jones1906/Ciphers)
 
 - <b>Banner Designing project</b>
- - [Praciting Linux Shell in Ubuntu Vmware](https://github.com/Jones1906/Banner)
+  - [Praciting Linux Shell in Ubuntu Vmware](https://github.com/Jones1906/Banner)
 
 - <b>PrimeNumberGenerator</b>
-- [Praciting Web programming using HTML](https://github.com/Jones1906/PrimeNumberGen)
+  - [Praciting Web programming using HTML](https://github.com/Jones1906/PrimeNumberGen)
 
 
 <h2> 🤳 Connect with me:</h2>
