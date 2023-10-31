@@ -5,6 +5,13 @@
 - <b>Object Oriented Programming Encryption Project</b>
   - [Praciting OOP in Java](https://github.com/Jones1906/Ciphers)
 
+- <b>Banner Designing project</b>
+ - [Praciting Linux Shell in Ubuntu Vmware](https://github.com/Jones1906/Banner)
+
+- <b>PrimeNumberGenerator</b>
+- [Praciting Web programming using HTML](https://github.com/Jones1906/PrimeNumberGen)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
