@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Object Oriented Programming Encryption Project</b>
-  - [Praciting OOP in Java](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting OOP in Java](https://github.com/Jones1906/Ciphers)
 
 <h2> 🤳 Connect with me:</h2>
 
