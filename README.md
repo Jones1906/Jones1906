@@ -32,9 +32,13 @@
   - [Compiler-CST8152 (Private)](https://github.com/Maharshi2403/Compiler-CST8152)
     - Developing a compiler called RANDI, designed as a subset of the R language. RANDI focuses on simplifying statistical computing, data analysis, and visualization tasks. It provides a range of keywords, datatypes, and control structures tailored for these purposes. Despite being slower compared to compiled languages like C, RANDI offers extensive libraries and packages optimized for statistical analysis. Its goal is to facilitate easy manipulation of SQL databases with minimal effort, making it particularly useful for data-centric applications. The language implementation strategy revolves around parsing and translating RANDI code into ANSI C, leveraging existing C datatypes and functionalities. It employs familiar syntax elements such as {} for defining blocks of code within loops and conditionals, akin to C. Overall, RANDI aims to provide a user-friendly interface for statisticians and data analysts, streamlining their workflow in handling complex datasets.
   - <b>Battleship Game using Java Swing</b>
-    - [Battleship-Game Repository(Private)](https://github.com/Jones1906/Battleship-Game)
+    - [Battleship-Game Repository](https://github.com/Jones1906/Battleship-Game)
     - Implementing the classic game of Battleship, which involves placing ships on a grid and guessing the location of the opponent's ships. This project includes designing the game logic, creating the grid, placing ships, handling player input, and implementing the guessing mechanism for attacks.
-  - If you want access to either of these repositories, please email the creator at [tom00033@algonquinlive.com](mailto:tom00033@algonquinlive.com).
+  - <b>Digital Portfolio using ReactJS, HTML, and CSS</b>
+    - [Digital Portfolio Repository](https://github.com/Jones1906/Digital-Portfolio)
+    - Developing a digital portfolio website using ReactJS for frontend development and HTML/CSS for styling. This project aims to showcase my projects, skills, and experiences in a visually appealing and interactive manner.
+  - If you want access to any of these repositories, please email the creator at [tom00033@algonquinlive.com](mailto:tom00033@algonquinlive.com).
+
 
 
 <h2>🤳 Connect with me:</h2>
