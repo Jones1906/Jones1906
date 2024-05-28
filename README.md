@@ -28,9 +28,9 @@
 
 <h2>🛠️ Currently Working On:</h2>
 
-- <b>Academic Assignment in C++</b>
+- <b>Academic Assignment in Compilers</b>
   - [C- Repository (Private)](https://github.com/Jones1906/C-)
-  - RANDI is designed as a subset of the R language, with a focus on simplifying statistical computing, data analysis, and visualization tasks. It offers a range of keywords, datatypes, and control structures tailored for these purposes. Despite being slower compared to compiled languages like C, RANDI provides extensive libraries and packages optimized for statistical analysis. Its goal is to facilitate easy manipulation of SQL databases with minimal effort, making it particularly useful for data-centric applications. The language implementation strategy revolves around parsing and translating RANDI code into ANSI C, leveraging existing C datatypes and functionalities. It employs familiar syntax elements such as {} for defining blocks of code within loops and conditionals, akin to C. Overall, RANDI aims to provide a user-friendly interface for statisticians and data analysts, streamlining their workflow in handling complex datasets.
+  - Developing a compiler called RANDI is designed as a subset of the R language, with a focus on simplifying statistical computing, data analysis, and visualization tasks. It offers a range of keywords, datatypes, and control structures tailored for these purposes. Despite being slower compared to compiled languages like C, RANDI provides extensive libraries and packages optimized for statistical analysis. Its goal is to facilitate easy manipulation of SQL databases with minimal effort, making it particularly useful for data-centric applications. The language implementation strategy revolves around parsing and translating RANDI code into ANSI C, leveraging existing C datatypes and functionalities. It employs familiar syntax elements such as {} for defining blocks of code within loops and conditionals, akin to C. Overall, RANDI aims to provide a user-friendly interface for statisticians and data analysts, streamlining their workflow in handling complex datasets.
   - If you want access to this repository, please email the creator at [tom00033@algonquinlive.com](mailto:tom00033@algonquinlive.com).
 
 <h2>🤳 Connect with me:</h2>
